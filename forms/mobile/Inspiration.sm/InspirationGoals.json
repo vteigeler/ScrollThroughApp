@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s579b6322bfa4e5e86e8a71a15bfee6d",
+    "_text_": "Goals",
+    "_top_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s8aa2ec9983d462489e9bbb56010397a"
+    },
+    "displaytext": true,
+    "id": "InspirationGoals",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d20d5253d3e746a29744e766a56d203a",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_ca104f5ba26640eab7129c559a539493",
+    "parent": "Inspiration",
+    "pf": "Inspiration",
+    "wType": "Button",
+    "zindex": 1
+}

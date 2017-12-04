@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se2db8a757104644b84d65cb6e5a271e",
+    "_text_": "Progress",
+    "_top_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s8aa2ec9983d462489e9bbb56010397a"
+    },
+    "displaytext": true,
+    "id": "InspirationProgress",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cf9e8ee926cf4fef9af788ccd687b1a5",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_beb5f706688f4363a04ddb78394a8425",
+    "parent": "Inspiration",
+    "pf": "Inspiration",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Button_b839a28931b6487eabb2b282aef9daed": {
+        "id": "AS_Button_b839a28931b6487eabb2b282aef9daed",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Progress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c2986332cf5b4f63ae1bc60893d306cf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___b6bb8a82c2e846ed9c6f2df65397d249",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Goals",
+            "formKUID": "f06dce9dca8c4da8bbb67fec3b6b7711",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

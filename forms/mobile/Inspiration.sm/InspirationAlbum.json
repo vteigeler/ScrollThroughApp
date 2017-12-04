@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4e956bd2dd14a8a80b30500669fae4f",
+    "_text_": "Album",
+    "_top_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s8aa2ec9983d462489e9bbb56010397a"
+    },
+    "displaytext": true,
+    "id": "InspirationAlbum",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c803694bef524e2b993d16dab62aa553",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_e474513b251d4a90bbbb84afa66d9993",
+    "parent": "Inspiration",
+    "pf": "Inspiration",
+    "wType": "Button",
+    "zindex": 1
+}

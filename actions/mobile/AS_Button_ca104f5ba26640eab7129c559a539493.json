@@ -1,0 +1,29 @@
+{
+    "AS_Button_ca104f5ba26640eab7129c559a539493": {
+        "id": "AS_Button_ca104f5ba26640eab7129c559a539493",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Inspiration",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jbd3e7d0f8514a20b9fe6920e413d610"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ff7f8176701b496caabbe00aa0fa8a87",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Goals",
+            "formKUID": "f06dce9dca8c4da8bbb67fec3b6b7711",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Button_beb5f706688f4363a04ddb78394a8425": {
+        "id": "AS_Button_beb5f706688f4363a04ddb78394a8425",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Inspiration",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jbd3e7d0f8514a20b9fe6920e413d610"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e8fec5810b2143d1bf8fb7b57e2e0236",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Progress",
+            "formKUID": "c2986332cf5b4f63ae1bc60893d306cf",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5816205bf0a48e6ba270b2da4b39d4c",
+    "_text_": "Progress",
+    "_top_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s8aa2ec9983d462489e9bbb56010397a"
+    },
+    "displaytext": true,
+    "id": "GoalsProgress",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ieb17c441f5544d3a9729003f132922b",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_f124e81b62f54aa693c194cc1894d870",
+    "parent": "Goals",
+    "pf": "Goals",
+    "wType": "Button",
+    "zindex": 1
+}

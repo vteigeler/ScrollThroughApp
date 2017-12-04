@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s484ac21e0324a608c0064683771e5a7",
+    "_text_": "Album",
+    "_top_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s8aa2ec9983d462489e9bbb56010397a"
+    },
+    "displaytext": true,
+    "id": "ProgressAlbum",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d92590473c3b4aaba56880c9d6a6a92e",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_db5b53512b164ff785ebead678c0b7b8",
+    "parent": "Progress",
+    "pf": "Progress",
+    "wType": "Button",
+    "zindex": 1
+}

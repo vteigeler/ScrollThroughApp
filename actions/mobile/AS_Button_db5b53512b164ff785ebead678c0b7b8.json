@@ -1,0 +1,29 @@
+{
+    "AS_Button_db5b53512b164ff785ebead678c0b7b8": {
+        "id": "AS_Button_db5b53512b164ff785ebead678c0b7b8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Progress",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c2986332cf5b4f63ae1bc60893d306cf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ff6c72ebca9148a7a7beaa1488f17c06",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Album",
+            "formKUID": "h032045b5336494db0543d532914f7f7",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

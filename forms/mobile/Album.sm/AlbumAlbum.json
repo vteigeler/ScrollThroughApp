@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s868e4c8cb4045e0a0910f00a2476ecc",
+    "_text_": "Album",
+    "_top_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "android": {
+        "psp": {
+            "pressedSkin": "se2efd48f5104cf49569662953e82b72"
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s46893b1cc5a462b9e235ed807dde4d9",
+    "id": "AlbumAlbum",
+    "info": null,
+    "isvisible": true,
+    "kuid": "db4a7d7ff2f64c3fa2354e2ba358559c",
+    "name": "kony.ui.Button",
+    "parent": "Album",
+    "pf": "Album",
+    "wType": "Button",
+    "zindex": 1
+}

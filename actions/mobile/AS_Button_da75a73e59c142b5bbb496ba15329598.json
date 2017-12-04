@@ -1,0 +1,24 @@
+{
+    "AS_Button_da75a73e59c142b5bbb496ba15329598": {
+        "id": "AS_Button_da75a73e59c142b5bbb496ba15329598",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Goals",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f06dce9dca8c4da8bbb67fec3b6b7711"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

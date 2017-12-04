@@ -1,0 +1,24 @@
+{
+    "AS_Form_afe601305748444a8e7d81f557c3081d": {
+        "id": "AS_Form_afe601305748444a8e7d81f557c3081d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Album",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h032045b5336494db0543d532914f7f7"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "270dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s99ad32c319c400c81729aa2ec0522db",
+    "_text_": "Inspiration",
+    "_top_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "android": {
+        "psp": {
+            "pressedSkin": "sb7b03218ccb4e5281eb01b0bbdd2631"
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8d887efbc094540831a5215655eed6c",
+    "id": "InspirationInspiration",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ce37f275da85472b80dac76fb26ffad2",
+    "name": "kony.ui.Button",
+    "parent": "Inspiration",
+    "pf": "Inspiration",
+    "wType": "Button",
+    "zindex": 1
+}
